@@ -9,6 +9,7 @@ const FloatingNavbar = () => {
     const navItems = [
         { title: 'Home', href: '/' },
         { title: 'About', href: '/about' },
+        { title: 'Calculator', href: '/calculator' },
         { title: 'Get Started', href: '/start' },
     ]
 
