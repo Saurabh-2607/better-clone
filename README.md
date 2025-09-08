@@ -17,6 +17,9 @@ A pixel-perfect clone of Better.com's website built with Next.js 15, React 19, a
 - 🎯 **SEO optimized** with Next.js App Router
 - 🎪 **Interactive elements** with smooth transitions
 - 🔍 **Type-safe** development experience
+- 🚀 **Floating navigation** for easy page switching (added for user convenience)
+
+> **Note**: The floating navigation bar at the bottom of the screen is not part of the original Better.com design. It has been added for easy navigation between the different pages during development and testing.
 
 ## 🏗️ Project Structure
 
